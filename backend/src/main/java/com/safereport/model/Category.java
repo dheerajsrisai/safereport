@@ -1,0 +1,2 @@
+package com.safereport.model;
+public enum Category { THEFT, ASSAULT, FRAUD, CYBERCRIME, HARASSMENT, DRUGS, CORRUPTION, VANDALISM, DOMESTIC_VIOLENCE, OTHER }
